@@ -1,2 +1,4 @@
 tset
 tambah perubahan di clone
+buat perubahan di master
+perubahan di remote origin
